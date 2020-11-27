@@ -10,5 +10,5 @@
     * Conversion of csv file to HTML table using pandas  
     * Navigation menu that utilizes CSS media query 
     * Contains drop-down menu within navigation to each page 
-    * Deployed on Github for accessibility 
+    * Deployed on Github for accessibility (Link: https://stellakk75.github.io/Web-Design-Challenge/)
 
