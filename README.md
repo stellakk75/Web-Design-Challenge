@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 
-**This assignment creates a visualization dashboard website of weather. There are multiple pages created within the dashboard including a landing, 4 visualizations, a comparison, and a data page.** 
+**This assignment creates an adaptable visualization dashboard website of weather. There are multiple pages created within the dashboard including a landing, 4 visualizations, a comparison, and a data page. There is also a functional navigation bar with a drop down menu to link back to each page.** 
 
 * Additional details: 
     * Sidebar with previews of plots on landing page and all 4 visualization pages
